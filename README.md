@@ -14,6 +14,10 @@ Robocopy has incomprehensible DOS syntax and *returns 1 on success*.
 WSL commands are difficult to invoke from a Windows context like Visual
 Studio build events.
 
+## Download
+
+Compiled binaries can be downloaded from https://github.com/MiffOttah/ItsaMultiCopy/releases .
+
 ## Options
 
     ItsaMultiCopy.exe OPTIONS SOURCE DESTINATION
