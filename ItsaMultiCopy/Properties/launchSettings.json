@@ -1,8 +1,7 @@
 {
   "profiles": {
     "ItsaMultiCopy": {
-      "commandName": "Project",
-      "commandLineArgs": "-v -M\"*dir\" -m\"ll*.txt\" D:\\Temp\\dirstructure\\src D:\\Temp\\dirstructure\\dest"
+      "commandName": "Project"
     }
   }
 }
